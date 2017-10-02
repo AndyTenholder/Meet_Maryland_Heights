@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp">
+
+    <RelativeLayout
+        android:layout_width="88dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="16dp"
+        android:id="@+id/imagecontainer">
+        <ImageView
+            android:layout_centerInParent="true"
+            android:id="@+id/imagebox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_toRightOf="@id/imagecontainer"
+        android:id="@+id/text_container"
+        android:paddingLeft="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <LinearLayout
+            android:layout_centerVertical="true"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textStyle="bold"
+                android:textSize="16sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/attraction_name" />
+
+
+            <TextView
+                android:layout_below="@id/attraction_name"
+                android:textSize="14sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/attraction_address_street" />
+
+            <TextView
+                android:layout_below="@id/attraction_address_street"
+                android:textSize="14sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/attraction_address_city" />
+
+            <TextView
+                android:layout_below="@id/attraction_address_city"
+                android:textSize="14sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/attraction_phone_number" />
+
+            <TextView
+                android:layout_below="@id/attraction_phone_number"
+                android:textSize="14sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/attraction_website" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_below="@id/text_container"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:textSize="14sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/attraction_description" />
+
+
+</RelativeLayout>

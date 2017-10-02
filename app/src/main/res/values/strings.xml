@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">Meet Maryland Heights</string>
+
+
+    <!-- Maryland Heights Restaurants -->
+
+    <!-- Syberg\'s Dorsett -->
+    <string name="Sybergs_Dorsett_name">Syberg\'s Dorsett</string>
+    <string name="Sybergs_Dorsett_description">Syberg\'s on Dorsett has everything you are looking for in one spot. The best wings, pizza and shark chunks in town.</string>
+    <string name="Sybergs_Dorsett_website">http://www.sybergs.com/</string>
+    <string name="Sybergs_Dorsett_Street">2430 Old Dorsett Rd</string>
+    <string name="Sybergs_Dorsett_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Sybergs_Dorsett_Phone">(314)785-0481</string>
+
+    <!-- Kobe\'s Japanese Steakhouse -->
+    <string name="Kobes_Japanese_Steakhouse_name">Kobe\'s Japanese Steakhouse</string>
+    <string name="Kobes_Japanese_Steakhouse_description">Kobe offers a complete Japanese Teppanyaki dining experience with each order prepared at your table.</string>
+    <string name="Kobes_Japanese_Steakhouse_website">http://www.kobesteakhouse.us/</string>
+    <string name="Kobes_Japanese_Steakhouse_Street">111 W Port Plz Ste 1200</string>
+    <string name="Kobes_Japanese_Steakhouse_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Kobes_Japanese_Steakhouse_Phone">(314)469-3900</string>
+
+    <!-- Serra\'s Pizzeria -->
+    <string name="Serras_Pizzeria_name">Serra\'s Pizzeria</string>
+    <string name="Serras_Pizzeria_description">Every pizza is hand tossed and oven baked, topped with their signature sauce and provel cheese.</string>
+    <string name="Serras_Pizzeria_website">http://www.serraspizzeria.com/</string>
+    <string name="Serras_Pizzeria_Street">12218 McKelvey Rd</string>
+    <string name="Serras_Pizzeria_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Serras_Pizzeria_Phone">(314)739-0881</string>
+
+    <!-- O\'Fallon Brewery -->
+    <string name="OFallon_Brewery_name">O\'Fallon Brewery</string>
+    <string name="OFallon_Brewery_description">O’Fallon Brewery was founded in 2000. In 2015 they opened the O\'Bar, their restaurant and tap room.</string>
+    <string name="OFallon_Brewery_website">http://www.ofallonbrewery.com/</string>
+    <string name="OFallon_Brewery_Street">45 Progress Pkwy</string>
+    <string name="OFallon_Brewery_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="OFallon_Brewery_Phone">(636) 474-2337</string>
+
+    <!-- Fuzzy\'s Taco Shop -->
+    <string name="Fuzzys_Taco_Shop_name">O\'Fallon Brewery</string>
+    <string name="Fuzzys_Taco_Shop_description">Baja-style Mexican food in a fun atmosphere. Our recipe for everything: FRESH. FAST. FUN.</string>
+    <string name="Fuzzys_Taco_Shop_website">http://www.fuzzystacoshop.com/</string>
+    <string name="Fuzzys_Taco_Shop_Street">302 Westport Plz</string>
+    <string name="Fuzzys_Taco_Shop_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Fuzzys_Taco_Shop_Phone">(314)878-8226</string>
+
+    <!-- Big Baby Q and Smokehouse -->
+    <string name="Big_Baby_Q_name">Big Baby Q and Smokehouse</string>
+    <string name="Big_Baby_Q_description">Neighborhood Q Joint. Embrace the Q! </string>
+    <string name="Big_Baby_Q_website">http://bigbabyq.com/</string>
+    <string name="Big_Baby_Q_Street">11658 Dorsett Rd</string>
+    <string name="Big_Baby_Q_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Big_Baby_Q_Phone">(314)801-8888</string>
+
+    <!-- Balducci\'s Winefest Restaurant -->
+    <string name="Balduccis_Winefest_Restaurant_name">Balducci\'s Winefest Restaurant</string>
+    <string name="Balduccis_Winefest_Restaurant_description">Come discover the delicious tastes and old-world charm of Italia.</string>
+    <string name="Balduccis_Winefest_Restaurant_website">http://www.balduccisrestaurant.com/</string>
+    <string name="Balduccis_Winefest_Restaurant_Street">12527 Bennington Pl</string>
+    <string name="Balduccis_Winefest_Restaurant_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Balduccis_Winefest_Restaurant_Phone">(314)576-5024</string>
+
+    <!-- Standard Brewing Company -->
+    <string name="Standard_Brewing_Company_name">Standard Brewing Company</string>
+    <string name="Standard_Brewing_Company_description">Standard Brewing is a brewpub committed to setting the standard for craft beer and beer focused food.</string>
+    <string name="Standard_Brewing_Company_website">http://www.standardbrewingstl.com/</string>
+    <string name="Standard_Brewing_Company_Street">12322 Dorsett Rd</string>
+    <string name="Standard_Brewing_Company_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Standard_Brewing_Company_Phone">(314)548-2270</string>
+
+    <!-- Maryland Heights Outdoors -->
+
+    <!-- Creve Coeur Park -->
+    <string name="Creve_Coeur_Park_name">Creve Coeur Park</string>
+    <string name="Creve_Coeur_Park_description">Creve Coeur Park boasts a 320-acre lake and miles of walking and cycling trails.</string>
+    <string name="Creve_Coeur_Park_website">http://www.stlouisco.com/</string>
+    <string name="Creve_Coeur_Park_Street">13725 Marine</string>
+    <string name="Creve_Coeur_Park_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Creve_Coeur_Park_Phone">(314)615-4386</string>
+
+    <!-- Vago Park -->
+    <string name="Vago_Park_name">Vago Park</string>
+    <string name="Vago_Park_description">This 20-acre park is the place to go for exercise, play, or your next social event!</string>
+    <string name="Vago_Park_website">http://www.marylandheights.com/</string>
+    <string name="Vago_Park_Street">270 Fee Fee Rd</string>
+    <string name="Vago_Park_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Vago_Park_Phone">(314)738-2599</string>
+
+    <!-- Aquaport -->
+    <string name="Aquaport_name">Aquaport</string>
+    <string name="Aquaport_description">Aquaport is a great place for the entire family to cool off and enjoy the summer!</string>
+    <string name="Aquaport_website">http://www.marylandheights.com/</string>
+    <string name="Aquaport_Street">2344 McKelvey Rd</string>
+    <string name="Aquaport_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Aquaport_Phone">(314)738-2599</string>
+
+    <!-- Dogport -->
+    <string name="Dogport_name">Dogport</string>
+    <string name="Dogport_description">Dogport is a park for dogs, accompanied by responsible owners, to play without leashes.</string>
+    <string name="Dogport_website">http://www.marylandheights.com/</string>
+    <string name="Dogport_Street">2350 Old McKelvey Rd</string>
+    <string name="Dogport_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Dogport_Phone">(314)738-2599</string>
+
+    <!-- Go Ape Treetop Adventures -->
+    <string name="Go_Ape_name">Go Ape Treetop Adventures</string>
+    <string name="Go_Ape_description">This outdoor adventure course features treetop obstacles, each leading you higher into the forest canopy.</string>
+    <string name="Go_Ape_website">https://goape.com/</string>
+    <string name="Go_Ape_Street">13219 Streetcar Drive</string>
+    <string name="Go_Ape_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Go_Ape_Phone">1-800-971-8271</string>
+
+    <!-- The Quarry at Crystal Springs -->
+    <string name="The_Quarry_name">The Quarry at Crystal Springs</string>
+    <string name="The_Quarry_description">The Quarry at Crystal Springs delivers an affordable Golf Course that is a true test of any players game.</string>
+    <string name="The_Quarry_website">http://www.quarrygc.com/</string>
+    <string name="The_Quarry_Street"> 1 Crystal Springs Quarry Dr</string>
+    <string name="The_Quarry_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="The_Quarry_Phone">(314)514-0154</string>
+
+    <!-- Night Life -->
+    <!-- Funny Bone -->
+    <string name="Funny_Bone_name">Funny Bone</string>
+    <string name="Funny_Bone_description">Funny Bone may well be St. Louis\' premiere venue for comedy..</string>
+    <string name="Funny_Bone_website">http://stlouisfunnybone.com/</string>
+    <string name="Funny_Bone_Street">614 Westport Plaza Dr.</string>
+    <string name="Funny_Bone_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Funny_Bone_Phone">(314)469-6692</string>
+
+    <!-- The Jive and Wail -->
+    <string name="The_Jive_and_Wail_name">The Jive and Wail</string>
+    <string name="The_Jive_and_Wail_description">The Jive and Wail is a sing-along, clap-along, eat and drink along, entertainment venue! </string>
+    <string name="The_Jive_and_Wail_website">http://www.jiveandwail.com/</string>
+    <string name="The_Jive_and_Wail_Street">621 Westport Plaza, 2nd Floor</string>
+    <string name="The_Jive_and_Wail_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="The_Jive_and_Wail_Phone">(314)781-7000</string>
+
+    <!-- Hollywood Casino -->
+    <string name="Hollywood_Casino_name">Hollywood Casino</string>
+    <string name="Hollywood_Casino_description">Hollywood Casino St. Louis offers 2100 of the hottest slots and video poker machines and 70-plus table games.</string>
+    <string name="Hollywood_Casino_website">http://www.hollywoodcasinostlouis.com/</string>
+    <string name="Hollywood_Casino_Street">777 Casino Center Dr</string>
+    <string name="Hollywood_Casino_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Hollywood_Casino_Phone">(855)785-4263</string>
+
+    <!-- Backstreet Jazz and Blues -->
+    <string name="Back_Street_Jazz_name">Backstreet Jazz and Blues</string>
+    <string name="Back_Street_Jazz_description">You’d be hard-pressed to find better music than at Backstreet Jazz and Blues Club.</string>
+    <string name="Back_Street_Jazz_website">http://www.westportstl.com/</string>
+    <string name="Back_Street_Jazz_Street">614 West Port Plaza</string>
+    <string name="Back_Street_Jazz_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Back_Street_Jazz_Phone">(855)878-5800</string>
+
+    <!-- Bradford's Pub -->
+    <string name="Bradfords_Pub_name">Bradford\'s Pub</string>
+    <string name="Bradfords_Pub_description">Bradford’s is an authentic English pub where there’s plenty of stuff to keep you entertained.</string>
+    <string name="Bradfords_Pub_website">http://www.westportstl.com/</string>
+    <string name="Bradfords_Pub_Street">720 Westport Plz</string>
+    <string name="Bradfords_Pub_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Bradfords_Pub_Phone">314)434-1332</string>
+
+    <!-- Indoors -->
+    <!-- Upper Limits -->
+    <string name="Upper_Limits_name">Upper Limits</string>
+    <string name="Upper_Limits_description">Upper Limits is the premier rock climbing gym in St. Louis and offers something for everyone!</string>
+    <string name="Upper_Limits_website">http://upperlimits.com/</string>
+    <string name="Upper_Limits_Street">1874 Lackland Hill Parkway</string>
+    <string name="Upper_Limits_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Upper_Limits_Phone">(314)991-2516</string>
+
+    <!-- Playhouse -->
+    <string name="Playhouse_name">Playhouse</string>
+    <string name="Playhouse_description">The Playhouse was reopened in 2016 and is commited to offering theatre experiences no available elsewhere in St. Louis.</string>
+    <string name="Playhouse_website">http://www.playhouseatwestport.com/</string>
+    <string name="Playhouse_Street">635 Westport Plaza</string>
+    <string name="Playhouse_City_State_Zip">Maryland Heights, Missouri 63146</string>
+    <string name="Playhouse_Phone">(314)647-2434</string>
+
+    <!-- Escape Challenge -->
+    <string name="Escape_Challenge_name">Escape Challenge</string>
+    <string name="Escape_Challenge_description">Experience IMMERSIVE St Louis Escape Rooms and STL\'s 1st Virtual Reality Game Center! </string>
+    <string name="Escape_Challenge_website">http://www.escapechallengestl.com/</string>
+    <string name="Escape_Challenge_Street">11978 Dorsett Rd</string>
+    <string name="Escape_Challenge_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Escape_Challenge_Phone">(314)736-4757</string>
+
+    <!-- Dave and Busters -->
+    <string name="Dave_and_Busters_name">Dave and Buster\'s</string>
+    <string name="Dave_and_Busters_description">Family-friendly chain offering a sports-bar-style setting for American food and arcade games.</string>
+    <string name="Dave_and_Busters_website">http://www.daveandbusters.com/</string>
+    <string name="Dave_and_Busters_Street">13857 Riverport Dr</string>
+    <string name="Dave_and_Busters_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Dave_and_Busters_Phone">(314)209-8015</string>
+
+    <!-- Hollywood Casino Amphitheatre -->
+    <string name="Hollywood_Amphitheatre_name">Hollywood Casino Amphitheatre</string>
+    <string name="Hollywood_Amphitheatre_description">The Hollywood Casino Amphitheatre is a 7,000-seat outdoor concert venue, with lawn seating for another 13,000.</string>
+    <string name="Hollywood_Amphitheatre_website">http://thehollywoodcasinoamphitheatre.com/</string>
+    <string name="Hollywood_Amphitheatre_Street">13857 Riverport Dr</string>
+    <string name="Hollywood_Amphitheatre_City_State_Zip">Maryland Heights, Missouri 63043</string>
+    <string name="Hollywood_Amphitheatre_Phone">(314)298-9944</string>
+
+    <!-- About Maryland Heights -->
+    <string name="About_Maryland_Heights_1">Maryland Heights is a great place to live, work, and visit. Our city is home to more than 27,000 residents, 1,600 businesses, 3,600 hotel rooms, and numerous dining, recreation, and entertainment opportunitiies. </string>
+    <string name="About_Maryland_Heights_2">The city has a prime location in the center of the St. Louis Metropolitan area, located at the intersection of Interstates 70 and 270, and within a short drive of Interstates 64, 44 and 55. An eight-lane regional highway, U.S. 364, serves as one of two bridges connecting Maryland Heights to neighboring St. Charles County across the Missouri River, which forms the city\'s western boundary. Lambert-St. Louis International Airport is a 10-minute drive from Maryland Heights.</string>
+    <string name="About_Maryland_Heights_3">Since incorporation in 1985, the city has seen significant growth, both residentially and commercially. Every year approximately 9 million visitors come to the city. Thanks to major investments in constructing, rebuilding, and maintaining infrastruture the city is able to optimize access throughout the community. Maryland Heights prides itself on its service-first staff and responsive elected officials. The police department has a sterling reputation, and our already-low crime rates have fallen over the years.</string>
+
+
+
+
+
+
+</resources>
